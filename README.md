@@ -6,5 +6,5 @@ Saut > espace
 But du jeu :
 Ramasser tout les collectibles (Cupcakes) sans mourrir 
 
-A ameliorer :
-Animation/graphisme + UI + Parallaxe
+A ameliorer/faire :
+Animation/graphisme + UI + Parallaxe + attaque
